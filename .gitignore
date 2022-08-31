@@ -3,4 +3,5 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-/s3_website.yml
+.env.py
+/.env.py
