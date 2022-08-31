@@ -1,1 +1,7 @@
-/ftnb/s3_website.yml
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+/s3_website.yml
+/_config.yml
